@@ -212,10 +212,3 @@ jupyter notebook notebooks/ML_Project.ipynb
 - TensorFlow/Keras Documentation
 
 ---
-
-## 📧 Contact
-[Campgreget2@gmail.com] | [aryacahil]
-
----
-
-**⭐ Jika project ini bermanfaat, silakan berikan star!**
