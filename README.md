@@ -5,7 +5,7 @@ Proyek klasifikasi hewan menggunakan Machine Learning dan Deep Learning untuk me
 ## 👤 Informasi
 - **Nama:** Arya Dwipa Mukti
 - **NIM:** 233307037
-- **Repo:** [Link GitHub Repository]
+- **Repo:** https://github.com/aryacahil/UAS-DATASCIENCE.git
 - **Video:** [Link Video Penjelasan]
 
 ---
