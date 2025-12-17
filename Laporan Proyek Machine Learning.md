@@ -14,7 +14,7 @@
 **Dosen Pengampu:** Gus Nanang  
 **Tahun Akademik:** 2025/Semester 5 
 **Link GitHub Repository:** https://github.com/aryacahil/UAS-DATASCIENCE.git
-**Link Video Pembahasan:** 
+**Link Video Pembahasan:** https://youtu.be/Xcr4bI9KoqY?si=HM_0ROXbx4FIdj9t
 
 ---
 
